@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "isagen-358417",
+  "private_key_id": "0560fd201e23f958f80c4c2ef114fa986a12737a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCuv4T+ssRC7PGB\nOLBq18+USCk7sv4Ah2O8PTX7AaBe5mRp8KA1X1g0O+e3yC/0B2C5jAxLK/nprxRu\n6296Ztlgr6gKiaHjGklNuD8HwujXVUD0nbTj9V9unxF9w/uBX2UrMVhKAb2vdo0V\nDWQAL/C84+ZhoWMcnS+IIy0aeBloM3uTpe81irRDTN9oSlJyvw31Q33hDTN1gjyz\nGmh3DdHno3ML6PZvGBU4XRw3R1+5UFy8goLeSNXqwxc1fv8gCjV9/JdYS54Hy8hz\nB2MXWgdRKuTJAmbplXw0Uh/MnfHZa5TY37e4G4S7nPcAz5pg0q8BVJJMbpRJOKxq\n8nZvCFdpAgMBAAECggEAFH/TEi3WaCNzkT0dNOtsJnDwpVgyA83eHU7w7ikarwdH\n8EWSBbDRoA8G98A8H9xdtGaBarAV+RvYwcpMoYc/KOByTgonO4Tx5HQgsMBkoB4Y\nKJn3hmZac5elbaN39Y1DSPXY7ZWWsuatVjLj8EGvc/koJXvRLKIj2UyHFfvQvzBY\n4iHhlaVOsO3QRbqyhXNw2pTImZ2RSIgQc5glJlR/0drrvyiUkB9BlBY0V9krMvJI\nTmuuWHD2eWndWTN8IPzHMtPa57MydLay+SDcrhLT0jE87sbEK1MC2+/vorZdP65/\nTqBuvgz13z9JmxCduX9KpfCn8Zx1cPfvxfQ88Y2qoQKBgQDv6dRzFO3NcTHlBDeZ\noEik5togdCNnGyMF96VseLX0cKdoNVJjj0jeIQzRwwtHpDIzpDdxJqzRPXY+CUUR\nePanFgUS1yxjdGJ67tMFppez9fMYUGV/Y4iq9V4lykScWcvUWkVJ+rm7BqkRojb6\nYhVh4+0BAbXgcnLyv88ICtBNhwKBgQC6dxy/zlXl0FtnfhSUDjOaZ3bYSL7QJVDL\nydJ2USKmHFIqeCRva82Pa8Qn42bhmiE/tu2snlNUg7tw6Znq1v8JweecGDpUJvPV\n6dZnEOAZHcetkcv1CjTWE3BC6V/+uIGvAjVJ0+baFTa7M6IwTsFs6Eh4cTOKGf1g\nO2NEpFTvjwKBgQCq4Cq3BNMTHmphKY3IV8cl3F7D+rQ0fbmGSIqEJb3DKnGx4Tib\nPLSzsWqGBJuGHUa8TVxHtTolldcf/E47UaKsAxz9/E/bTkvOL0gRoEQwox7P1INW\nJjhzO2whEl2n1rU8vEbZmECtGuNUcesijrWYEVT/AI7gG+QPTdpRahJPBQKBgQCw\nTWDsZd5HvVo/HzG7zzWxXvQ6iYWI7k9Xb8rDvfEh2BNEPnZMt0QTwBQmltc2pfGb\n+Yz9snEdrrQyjVzPc1qO0jz4FNxJps7TyhXDO2x3svWSQhDy7iSI6LYzPc9a2v8b\nBt51oJpcRsSJ+cb3H++41mN3JalSgUJVk7FHPI1mNwKBgBQw9RTttSOB8bclj14f\n3Amv/KfBDFyKaf9JE3slQNL9AROG9MMd/C7zSOv92WZAesVeF3XopKd6kCYMJf/k\nJb9topz8DYWH/OQ5RSzwWbd3Jf9i0zjV8eb7OXCnGUrdRYTlDm3nsjSRkvUMdq/e\njyWQJsYRu51Bjt+BJPgVBjMo\n-----END PRIVATE KEY-----\n",
+  "client_email": "isagen@isagen-358417.iam.gserviceaccount.com",
+  "client_id": "105245553030072730642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/isagen%40isagen-358417.iam.gserviceaccount.com"
+}
